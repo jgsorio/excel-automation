@@ -1,0 +1,38 @@
+{
+    "0": {
+        "id": 38902,
+        "product": "Relogio",
+        "price": 134.45,
+        "stock": 10
+    },
+    "1": {
+        "id": 32931,
+        "product": "Teclado",
+        "price": 99,
+        "stock": 12
+    },
+    "2": {
+        "id": 32382,
+        "product": "Mouse",
+        "price": 25.49,
+        "stock": 40
+    },
+    "3": {
+        "id": 21991,
+        "product": "Microfone",
+        "price": 13,
+        "stock": 3
+    },
+    "4": {
+        "id": 39388,
+        "product": "Roteador",
+        "price": 397.87,
+        "stock": 1
+    },
+    "5": {
+        "id": 38389,
+        "product": "Mousepad",
+        "price": 20,
+        "stock": 9
+    }
+}
